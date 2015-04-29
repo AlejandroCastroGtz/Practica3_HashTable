@@ -1,0 +1,10 @@
+C:\Users\anggel\Documents\SharpDevelop Projects\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\anggel\Documents\SharpDevelop Projects\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\anggel\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Users\anggel\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\anggel\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica3\Practica3\obj\Debug\Practica3.pdb
